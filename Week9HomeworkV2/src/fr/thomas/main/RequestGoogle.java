@@ -1,6 +1,5 @@
 package fr.thomas.main;
 
- 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.net.MalformedURLException;
